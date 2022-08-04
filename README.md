@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ishan134567
-- 🎂 I'm 11 years old and styding in class VII
+- 🎂 I'm 11 years old and styding in class VIII
 - 👀 I’m interested in Computer programming in makecode arcade software
 - 🌱 I’m currently learning block coding in my school
 <!---
